@@ -1,0 +1,2 @@
+<view class="intro">我的孩子在哪儿？⬇⬇⬇</view>
+<button class="button" bindtap="navigate">定位</button>
